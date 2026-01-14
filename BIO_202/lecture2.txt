@@ -1,0 +1,144 @@
+pre-class slides
+
+Introduction
+chemical evolution is the leading explanation for the origin of life on Earth. (short answer)
+-> switch from chemical to biological evolution
+
+-> Life had begun
+
+2.1 The structure of atoms, ions and molecules
+2.2 the unique properties of water
+2.3 how do chemical reactions occur?
+2.4 current models 
+2.5 carbon
+
+Atoms, Ions, and Molecules: The Building Blocks of Chemical Evolution
+-hydrogen (H), carbon (C), nitrogen (N), and oxygen (O)
+
+Basic Atomic Structure
+atoms are composed of 
+protons- positively charged particles (+1 charge)
+neutrons- neutral particles (no charge)
+electrons- negatively charged particles (-1 charge)
+
+protons and neutrons are located in the nucleus
+the number of protons defines each atom
+
+electons move around in orbitals surrounding the nucleus
+each orbital can hold up to 2 electrons (one pair)
+orbitals are grouped into levels called electron shells
+
+electron shells are numbered 1,2,3 and so on
+-lower numbered shells are closer to the nucleus
+-the outermost electron shell of an atom is called its valence shell
+-for this course, atoms are most stable when their valence shells are either full or occupied by 8 electrons
+-> octet rule
+
+valence of an atom= the number of unpaired valence electrons
+elements highlighted in blue are most abundant in organisms
+
+with your neighbor, work together to determine the valence of each column
+
+top number - mass number (number of protons + neutrons)
+bottom number - atomic number (number of protons)
+table will be on quiz and exam
+
+in an atom of an element: number of protons = number of electrons
+in an ion of an element: number of protons -= number of electrons
+- more protons than electrons = positive ion or cation
+- less protons than electrons = negative ion or anion
+
+how many protons, neutrons, and electrons are 
+                                                protons         neutrons        electrons
+in an atom of Cl?                              17               18              17
+in a CL- ion?                                  17               18              18                         
+in a MG2+ ion?                                 12               12              10
+
+how many electrons are in the valence shells of Cl- and Mg2+? 8 in both
+
+atoms are most stable when their valence shells are full
+shells can be filled by formation of chemical bonds
+-> attractions that bind atoms together
+
+covalent vonds form when unpaired valence electrons are shared by two atoms
+
+molecules are substances held together by covalent bonds
+
+electrons are not always shared equally
+atoms may have different electronegativities - the strength with which they pull electrons toward themselves
+
+in general, moving up and to the right on the periodic table = higher electronegativity
+- O > N > S ~= C ~= H ~= P
+
+differences in electronegativity dictate how electrons are distributed in covalent bonds
+non-polar covalent bond
+-electrons are evenly shared between two atoms
+-the bond is symmetrical
+-example: C-H bond
+polar covalent bond
+-electrons are shared unevenly
+-example O-H bond
+
+polar bonds produce partial charges on atoms
+(a) nonpolar covalent bond
+(b) polar covalent bond
+
+-holds electrons more tightly-has a partial negative charge
+-the other atom will have a partial positive charge
+
+-cation - an atom that loses an electron and becomes postiively charged
+-anion - an atom that gains an electron and becomes negatively charged
+
+ionic bonds result when electrons are transferred from one atom to another to give both atoms full valence shells
+ionic bonds are the attraction between oppositely charged ions
+
+-water is unique due to its structure
+    -small size
+    -bent shape (asymmetric)
+    -highly polar covalent bonds
+    -overall polarity
+
+chemical evolution likely occurred in a water-based (aqueous) environment
+
+water is polar
+water molecules interact with each other
+-partical negative charges on oxygen in one water molecule attract partial positive charges on hydrogen in another water molecule
+-these weak electrical attractions are called hydrogen bonds
+
+hydrogen bonds can also form between water and any other polar molecule or ion
+-these are called hydrophilic ("water loving") substances
+
+-> hydrogen bonding makes it possible for almost any polar molecule or ion to dissolve in water
+
+hydrophobic "water-fearing" molecules
+hydrophobic interactions: interactions between hydrophobic molecules that result from their exclusion from water
+    - due to inability of hydrophobic molecules to form hydrogen bonds with water
+    - these interactions are temporary
+
+not really on exam or quiz*
+    water has remarkable properties, largely due to its ability to form hydrogen bonds
+        -cohesion
+        -adhestion
+
+cohesion is attraction between the same molecules
+    -water is attracted to itself by hydrogen bonding
+
+adhesion is attraction between different molecules
+    -water is attracted to polar/hydrophilic parts of plastic or glass
+
+will need to know the 6 major functional groups
+
+organic compounds are molecules that contain carbon bonded to other elements
+the formation of carbon-carbon bonds was an important event in chemical evolution
+
+functional groups found in organic compounds
+-amino group
+-carboxyl group
+-carbonyl group
+-hydroxyl group
+-phosphate group
+-sulfyldryl group
+
+describe a model for the chemicala evolution of life (know model name, and be able to describe what happens in the model)
+(prebiotic soup model) (surface metabolism model)
+

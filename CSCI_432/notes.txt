@@ -1,0 +1,34 @@
+finite automata
+-state we are in, and next input
+
+add a stack to a FA and u get a PDA
+why stack? they are in every computer
+push and pop can match patterns
+
+context free grammars
+stmt -> var = math_expr ;
+    while bool_expr stmts
+math_expr -> var
+             number
+             math_expr + math_expr
+             math_expr * math_expr
+
+parsing
+(draw a parse tree to __) 
+
+compiler design
+-lexical analysis turns characters into tokens, such as variable names, numbers, comparison symbols, etc
+-parsing matches those tokens to the grammar to build a parse tree
+-the parse tree helps us produce intermediate code
+-intermediate code can be optimized
+-the optimized code that be converted into machine code
+
+turing machines
+-a turing machine is a finite automaton with a tape that can move forward and backward. the TM  can read and write single values
+on the tape
+-if a TM cannot solve the problem, then a computer cannot solve the problem.
+-what types of problems can a TM not solve?
+-what types of problems are easy for a TM or take an extremely long time for a TM to solve?
+
+
+
