@@ -1,3 +1,24 @@
 protein structure and function
 
+-cells produce tens of thousands of distinct proteins
+-amino acids are the building blocks of proteins
+    -amino acids were most likely abundant during chemical evolution
+
+20 amino acids (charged, polar, nonpolar)
+
+amino acids are bonded to:
+-H a hydrogen atom
+-NH2 an amino functional group
+-COOH a carboxyl function group
+-R group -a variable "side chain"
+
+in water, the amino and carboxyl groups ionize to NH3+ and COO-. respectively
+    -amino group acts as a base and attracts a proton
+    -carboxyl group acts as an acid and donates a proton
+the resulting charges
+    -help amino acids stay in solution
+    -make amino acids more reactive
+
+acid -> donates proton
+base -> accepts proton
 
