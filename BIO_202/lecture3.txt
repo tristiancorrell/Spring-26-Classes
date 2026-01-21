@@ -22,3 +22,42 @@ the resulting charges
 acid -> donates proton
 base -> accepts proton
 
+the 20 amino acids differ only in the unique R-group, or side chain, attached to the centrol carbon
+the properties of amino acids are determined by their R-groups
+side chains can be grouped into 3 types:
+    1. charged (hydrophilic)
+        -acidic, negatively charged (-)
+        -basic, positively charged (+)
+    2. uncharged polar (hydrophilic)
+    3. nonpolar (hydrophobic)
+
+does the amino acid have a + or - charge on its side chain (r-group) -> yes -> it is electrically charged and hydrophilic
+does the amino acid have an oxygen in its side chain -> yes -> it is polar, uncharged, and hydrophilic
+
+no to both questions -> it is nonpolar, uncharged, and hydrophobic
+
+proteins are a type of biological macromolecule
+    -> large molecules made of smaller subunits
+proteins are polymers (many units)
+    subunits are called monomers ("one part")
+    monomers link together (polymerize) to form polymers ("many parts") through the process of polymerization
+amino acids are the monomers that make up proteins
+
+monomers polymerize through condensation reactions
+    results in the loss of a water molecule
+condensation:
+    monomer IN
+    water OUT
+
+polymers depolymerize through hydrolysis
+    breaks polymers apart by adding a water molecule
+hydrolysis:
+    water IN
+    monomer OUT
+
+amino acids polymerize when a bond forms between a carboxyl group of one amino acid and an amino group of another
+the resulting C--N bond is called a peptide bond
+    unusually stable because of a pair of valence electrons on nitrogen are partially shared in the C--N bond
+
+
+
