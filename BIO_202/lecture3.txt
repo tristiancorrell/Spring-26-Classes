@@ -59,5 +59,46 @@ amino acids polymerize when a bond forms between a carboxyl group of one amino a
 the resulting C--N bond is called a peptide bond
     unusually stable because of a pair of valence electrons on nitrogen are partially shared in the C--N bond
 
+peptide bonds bind amino acids together form a "backbone" with:
+    1. side chain/R group orientation extended out, allowing interactions with each other or water
+    2. directionality
+        the end with the free amino group is the N-terminus
+        the end with the free carboxyl group is the C-terminus
+    3. flexibility
+        single bonds on either side of the peptide bond can rotate
+
+proteins have diverse cellular functions because structure gives rise to function
+
+4 levels of protein structure
+1. primary: sequence of amino acids, determined by genetic code
+2. secondary: localized 3D structure, depends on hydrogen bonds between backbone atoms
+3. tertiary: overall 3D shape of single polypeptide, depends on different types of interactions between R-groups/side chains
+4. quaternary: overall 3D shape of complexes consisting of two or more polypeptides
+
+primary structure is fundamental to the higher levels of protein structure
+the amino acid R-groups/side chains affect a polypeptides properties and function
+    a single amino change can radically alter protein function
+
+secondary structure is formed by hydrogen bonding between:
+    the carbonyl group of one amino acid
+    the amino group of another amino acid
+    NOT between R-groups/side chains
+
+two types of secondary structure:
+    -(alpha) helices
+    -(beta) pleated sheets
+
+tertiary structure
+the tertiary structure of a polypeptide results from interactions between:
+    R-groups/side chains
+    R-groups/side chains and peptide backbone
+these contacts cause backbone to bend and fold into the distinctive 3D shape
+
+Five Different R-group/Side chain Interactions Define Tertiary Structure
+1. hydrogen bonds: from between polar side chains and opposite partial charges
+2. hydrophobic interactions: water forces hydrophobic side chains together
+3. van der waals interactions: weak electrical interactions between hydrophobic side chains in extremely close proximity
+4. disulfide bonds: form bridfes between two sulfydryl groups
+5. ionic bonds: form between groups with full and opposing charges
 
 
