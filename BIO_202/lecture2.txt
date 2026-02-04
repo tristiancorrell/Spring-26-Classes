@@ -37,7 +37,6 @@ electron shells are numbered 1,2,3 and so on
 valence of an atom= the number of unpaired valence electrons
 elements highlighted in blue are most abundant in organisms
 
-with your neighbor, work together to determine the valence of each column
 
 top number - mass number (number of protons + neutrons)
 bottom number - atomic number (number of protons)

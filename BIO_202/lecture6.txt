@@ -1,0 +1,37 @@
+know RNA primary structure from lecture 4
+
+information stored in RNA can be used to make copies via complementary base pairing
+
+capable of catalyzing (speeding up) reactions: ribozymes
+-information processing
+-replication of hereditary information
+-evolution by random changes in nucleic acids
+
+phospholipids = glycerol linked to:
+-hydrophilic "head"
+-hydrophobic "tail"
+molecules w both hydrophilic and hydrophobic regions are called amphipathic
+primary role of phospholipids is to form cell membranes
+
+when amphipathic lipids aer placed in water
+-the hydrophilic heads interact w water
+-the hydrophobic tails interact w each other, away from water
+
+they spontaneously form:
+lipid bilayers
+-phospholipid bilayer
+
+the plasma membrane, or cell membrane, separates life from non-life
+it is a selectively permeable membrane that separates the cell's interior from the external environment
+
+small or nonpolar molecules move across quickly
+charged or large polar substances cross slowly, if at all
+
+factors that affect membrane permeability
+1. number of double bonds in phospholipids' fatty acid tails (degree of saturation)
+-more saturated tails -> less permeable
+2. length of phospholipids fatty acid tails
+-longer tails -> less permeable
+3. temperature
+-decreasing temperature -> less permeable 
+
