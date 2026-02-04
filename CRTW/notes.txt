@@ -17,3 +17,5 @@ information
 concepts
 conclusions, interpretations
 
+SEE-I for all elements of reasoning for extra credit
+
