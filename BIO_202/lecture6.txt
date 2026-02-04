@@ -35,3 +35,53 @@ factors that affect membrane permeability
 3. temperature
 -decreasing temperature -> less permeable 
 
+diffusion is the spontaneous movement of solutes (small molecules and ions) in a solution
+differences in solute concentrations create a concentration gradient
+-there is a net movement from high concentration to low concentration
+
+diffusion down a concentration gradient is spontaneous (occurs naturally and is energetically favorable)
+equilibrium occurs when molecules or ions are evenly and randomly distributed
+-molecules still move randomly
+-but there is no more net movement in one direction
+
+1. separation of solutes -> concentration gradient
+2. diffusion
+3. equilibrium
+
+water moves quickly across lipid bilayers
+-this is a special case of diffusion called osmosis
+water moves from LOW SOLUTE concentration to HIGH SOLUTE concentration
+-this dilutes the higher concentration on each side of the membrane
+only occurs when solute cannot cross membrane
+
+plasma membranes contain as much protein as phospholipids
+proteins can insert into a membrane
+-they can be amphipathic, since their side chains can be charged, polar, or nonpolar
+
+proteins that span the membrane are integral membrane proteins
+-they have segments facing both its interior and exterior surfaces
+
+portions of these proteins that pass through hydrophobic tails of phospholipid bilayer have hydrophobic side chains
+
+a key function of membrane proteins is transport
+-channel proteins {passive transport
+-carrier proteins }facilitated diffusion
+-pumps -> active transport
+
+when substances move down (or with) their concentration gradient w help from membrane proteins, this is passive transport
+-does NOT require energy
+-called facilitated diffusion
+    -channel proteins
+    -carrier proteins
+
+when substances move up (or against) their gradient, the process is active transport
+-REQUIRES energy, usually from ATP
+-uses specialized protein pumps
+
+channel proteins are selective
+-amino acids facing inside the pore are hydrophilic
+each channel protein permits only one particular type of ion or small molecule to pass through it
+
+ion channels are specialized membrane proteins
+-form pores in a membrane for ions to diffuse through
+
