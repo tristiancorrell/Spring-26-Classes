@@ -85,3 +85,12 @@ each channel protein permits only one particular type of ion or small molecule t
 ion channels are specialized membrane proteins
 -form pores in a membrane for ions to diffuse through
 
+carrier proteins are membrane transport proteins that:
+-change shape to transport solutes across a membrane
+    -bi-directional transport driven by gradient
+-transport larger molecules, such as glucose
+
+pumps are membrane proteins that provide active transport of molecules across the membrane
+active transport is the only mechanism that can move ions/molecules against their concentration gradients
+the sodium-potassium pump transports both Na+ and K+ against their concentration gradients = requirement for energy input (ATP)
+
