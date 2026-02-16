@@ -18,4 +18,68 @@ differences:
 plants have chloroplasts; animals do not
 animals have lysosomes; plants do not
 
+match the organelles!
 
+nucleus _2                                 1. processes, sorts, and packages proteins and lipids for transport
+ribosomes _3                               2. houses chromosomes that store and transmit genetic information 
+smooth ER _4                               3. synthesizes proteins
+rough ER _6                                4. synthesizes lipids
+golgi _1                                   5. breaks down macromolecules
+mitochondria _8                            6. synthesizes proteins that will be packaged and sorted by the endomembrane system
+chloroplasts _7                            7. photosynthesis! plants only!
+lysosomes _5                               8. generates chemical energy (ATP)!
+
+proteins are made from ribosomes either:
+-in the cytoplasm (free)
+-bound to ER
+proteins are trafficked (sent) to specific places in the cell through the endomembrane system
+some proteins are secreted (released) from the cell by the endomembrane system to function elsewhere
+
+the secretory pathway is the series of organelles in the endomembrane system through which a protein passes
+-from where it was made to where it leaves the cell
+these organells are particularly developed in cells specialized for protein secretion
+
+discovering the secretory pathway: the pulse chase experiment
+-start w/ a culture of cells
+-"pulse" (add) a radioactively labeled amino acid for a set time
+    -all proteins made during this "pulse" are radioactively labeled
+after "pulse" period, wash away radioactively labeled amino acids and replace with unlabeled (normal) amino acids
+proteins made during this "chase" period will not be labeled
+    -but labeled proteins made during initial "pulse" will still be visible wherever they move to in the cell
+
+-right after pulse (time 0), newly synthesized (and labeled) proteins are in the rough ER
+-37 min into the chase, all labeled proteins are in the golgi
+    -indicates that they have moved there
+-117 mins into the chase, most of the labeled proteins have left the golgi and are in secretory vesicles
+
+most proteins found inside the organelles are imported from the cytoplasm
+proteins contain special signal sequences to target them to the appropriate organelles
+-a signal sequence is like zip codes for mail
+another example, proteins functioning inside the nucleus typically contain a 17-amino acid nuclear localization signal (NLS)
+-targets them for transport into the nucleus via nuclear pore complexes
+
+macromolecules must be digested by lysosomes before their subunits/monomers can be used by the cell
+materials are brought into the cell by pinching off the plasma membrane in a process called endocytosis
+    1. receptor-mediated endocytosis
+    2. phagocytosis
+lysosomes also digest large structures and organelles in the cytoplasm
+-process called autophagy ("same/self-eating")
+-portions of the cytoplasm, including damaged organelles, are enclosed to form an autophagosome
+-fuses with a lysosome for digestion
+
+the eukaryotic cytoskeleton:
+    -is a dense and complex network of proteins that:
+        -maintain cell shape
+        -provide structural support
+    -provides a "highway" system within cells
+    -is highly dynamic
+
+actin filaments are moved by myosin motor proteins
+-when myosin "head" attaches to actin and moves, the actin filament slides
+
+motor proteins move vesicles along micotubules
+micotubules are railways for vesicles to be transported along by motor proteins
+
+vesicle transport requires kinesin motor protein powered by ATP
+    -the head region binds to a microtubule
+    -the tail region binds to a vesicle
