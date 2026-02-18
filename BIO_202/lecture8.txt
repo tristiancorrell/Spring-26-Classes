@@ -1,0 +1,50 @@
+energy = capacity to do "work" (change or move something)
+    -potential energy is enery that is stored
+        -gravitational energy (gravity)
+        -electrochemical gradients (ions)
+        -chemical energy (bonds)
+    -kinetic energy is energy of motion
+        -thermal energy (heat)
+        -mechanical energy (motion)
+        -electromagnetic energy (light)
+
+gibbs free energy (G) = free energy of a system = energy available to do work
+    -a measure of spontaneity for the system
+        ->will a reaction happen without energy input?
+    -biochemistry focuses on changes in Gibbs free energy = delta G
+
+two ways for delta G to change; two types of reactions
+
+exergonic reactions: a reaction with a (-) delta G
+    -energetically favorable, spontaneous
+    -no energy input required, but might not be fast enough (hence enzymes)
+
+endergonic reactions: a reaction with a (+) delta G
+    -energetically unfavorable,  not spontaneous
+    -must be coupled to another reaction with a greater delta G
+        -provides energy input
+temperature and concentration affect reaction rates
+-higher concentrations and higher temperature increase reactane (substrate) collisions -> increase reaction rate
+
+energetic coupling 
+-between exergonic and endergonic reactions
+-allows chemical enery released from one reaction to drive another reaction
+
+reduction-oxidation reactions (redox reactions) transfer electrons
+-oxidation: loss of an electron(s) and energy
+    -LEO = losses electrons -> oxidation
+-reduction: gain of an electron(s) and energy
+    -GER = gains electrons -> reduction 
+
+during a redox reaction, electrons can
+-be transferred completely from one atom to another
+-simply shift their position in covalent bonds
+
+electrons are often accompanied by a proton (H+)
+-reduction often adds H's
+-oxidation often removes H's
+
+electron acceptors gain potential enery as they are reduced
+nicotinamde adenine dinucleotide (NAD+) accepts two electrons + one proton to form NADH
+-NAD+ is reduced to NADH
+
