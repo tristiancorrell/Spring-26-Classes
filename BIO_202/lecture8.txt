@@ -48,3 +48,32 @@ electron acceptors gain potential enery as they are reduced
 nicotinamde adenine dinucleotide (NAD+) accepts two electrons + one proton to form NADH
 -NAD+ is reduced to NADH
 
+adenosine triphosphate (ATP) is the energy currency for cells
+ATP contains bonds between three negatively charged phosphate groups
+-bonds store a large amount of potential energy
+
+energy from ATP hydrolysis is transferred to a substrate by temporary phosphorylation -> activates substrate
+energy from exergonic phosphorylation drives endergonic reactions
+
+all reactions require an amount of energy called activation energy (Ea)
+reactants initially combine to form transition state
+-state between breaking old bonds + making new ones
+
+enzymes help reactions clear two hurdles
+1. enzymes bring substrates together at enzyme's active site
+    -helps substrates collide in a precise orientation
+        -makes breaking old bonds and forming new bonds more likely
+2. enzymes lower the activation energy to promote the transition state
+    -enzymes do NOT change the overall delta G
+
+at the end of a reaction, enzyme returns to original state
+enzymes are not consumed by the reactions they catalyze
+enzymes are specific for a given substrate
+
+what limits the rate of enzymatic catalysis?
+1. increases linearly at low substrate concentrations
+2. slows as substrate concentration increases
+3. reaches maximum speed at high-substrate concentrations-enzyme becomes "saturated"
+
+potential vs. kinetic
+examples of potential energy and kinetic energy
